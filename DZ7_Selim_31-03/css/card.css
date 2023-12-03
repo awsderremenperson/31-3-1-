@@ -1,0 +1,24 @@
+
+.men_card {
+    display: flex;
+}
+
+
+
+.card-1 {
+    margin-top: 70px;
+    border: 10px solid yellow;
+    width: 381px;
+    height: 390px;
+    margin-left: 112px;
+}
+
+
+    .ar_card_person {
+        margin-top: 17px;
+        margin-left: 33px;
+    }
+
+    .card_text_der {
+        width: 302px;
+    }
